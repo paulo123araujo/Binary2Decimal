@@ -5,5 +5,5 @@
 > In other terminal window open frontend folder and run: <b> yarn start</b>
 
 ### See working
-![initial page](https://i.imgur.com/QLwhFH7.jpg)<br />
-![using](https://i.imgur.com/KxcAPtU.jpg)
+> ![initial page](https://i.imgur.com/QLwhFH7.jpg)<br /><hr /><br />
+> ![using](https://i.imgur.com/KxcAPtU.jpg)
